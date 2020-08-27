@@ -2,7 +2,7 @@ const express = require('express');
 const { solve } = require('../pkg/triangle_lib.js');
 
 const app = express();
-const port = 8080;
+const port = process.env.PORT || 8080;
 app.use(express.static(__dirname + '/public'));
 app.use(express.urlencoded({ extended: false }));
 /*
