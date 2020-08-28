@@ -1,3 +1,6 @@
+## Live on Heroku
+[See it here.](triangle-sss-solver.herokuapp.com)
+
 ## Use Docker to build and run
 
 Clone the repo and set it as your working directory.
