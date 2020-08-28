@@ -1,4 +1,4 @@
-## Live on Heroku
+## Live on Heroku (give it a couple seconds to start up)
 [See it here.](https://triangle-sss-solver.herokuapp.com)
 
 ## Use Docker to build and run
