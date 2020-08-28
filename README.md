@@ -1,5 +1,3 @@
-# Triangle SSS Solver
-
 ## Use Docker to build and run
 
 Clone the repo and set it as your working directory.
